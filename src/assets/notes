@@ -1,0 +1,30 @@
+Angular
+--------
+
+
+1. Components
+
+2. Module
+
+3. Template driven Angular form 
+
+4. Data Binding
+
+    4.1 One way Binding
+
+        4.1.1 From Component to View
+
+            4.1.1.1 String Interpolation / Interpolation - syntanx: {{expression}}
+
+            4.1.1.2 Property Binding- syntanx : [binding-target] = "binding-source"
+
+
+        4.1.2 From View to Component
+
+            4.1.2.1 Event Binding - syntanx: (eventName)="function call"
+
+             4.1.2.1 Event Binding using $event - (eventName)="function call ($event)"
+
+
+
+    4.2 Two Way Binding
